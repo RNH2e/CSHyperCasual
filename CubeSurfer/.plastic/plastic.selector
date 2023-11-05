@@ -1,0 +1,4 @@
+repository "CSTemplate@Planet_B@cloud"
+  path "/"
+    br "/main"
+    co "/main"
